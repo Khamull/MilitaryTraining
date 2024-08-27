@@ -1,0 +1,14 @@
+[
+  {
+    "Id": 1,
+    "UnitName": "John Doe",
+    "Rank": "Sergeant",
+    "Country": "USA"
+  },
+  {
+    "Id": 2,
+    "UnitName": "Jane Smith",
+    "Rank": "Corporal",
+    "Country": "UK"
+  }
+]

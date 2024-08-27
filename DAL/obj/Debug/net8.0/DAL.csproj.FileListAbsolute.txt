@@ -1,0 +1,12 @@
+C:\Repos\MilitaryTraining\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Repos\MilitaryTraining\DAL\bin\Debug\net8.0\DAL.dll
+C:\Repos\MilitaryTraining\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Repos\MilitaryTraining\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Repos\MilitaryTraining\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\MilitaryTraining\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Repos\MilitaryTraining\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Repos\MilitaryTraining\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Repos\MilitaryTraining\DAL\obj\Debug\net8.0\DAL.dll
+C:\Repos\MilitaryTraining\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Repos\MilitaryTraining\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Repos\MilitaryTraining\DAL\obj\Debug\net8.0\ref\DAL.dll

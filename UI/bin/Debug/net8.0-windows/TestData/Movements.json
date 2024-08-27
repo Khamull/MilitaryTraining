@@ -1,0 +1,746 @@
+[
+  {
+    "id": 1,
+    "unitId": 1,
+    "latitude": 37.234332396,
+    "longitude": -115.80666344,
+    "timestamp": "2024-08-26T08:00:00Z",
+    "status": "Departure: Starting point"
+  },
+  {
+    "id": 2,
+    "unitId": 1,
+    "latitude": 37.236,
+    "longitude": -115.808,
+    "timestamp": "2024-08-26T08:00:20Z",
+    "status": "Running: First point after start"
+  },
+  {
+    "id": 3,
+    "unitId": 1,
+    "latitude": 37.2375,
+    "longitude": -115.8095,
+    "timestamp": "2024-08-26T08:00:40Z",
+    "status": "Running: Continuing run"
+  },
+  {
+    "id": 4,
+    "unitId": 1,
+    "latitude": 37.239,
+    "longitude": -115.8105,
+    "timestamp": "2024-08-26T08:01:00Z",
+    "status": "Running: End of running phase"
+  },
+  {
+    "id": 5,
+    "unitId": 1,
+    "latitude": 37.2395,
+    "longitude": -115.811,
+    "timestamp": "2024-08-26T08:01:20Z",
+    "status": "Walking: Start of walking phase"
+  },
+  {
+    "id": 6,
+    "unitId": 1,
+    "latitude": 37.2398,
+    "longitude": -115.8112,
+    "timestamp": "2024-08-26T08:01:40Z",
+    "status": "Walking: Continuing walk"
+  },
+  {
+    "id": 7,
+    "unitId": 1,
+    "latitude": 37.24,
+    "longitude": -115.8114,
+    "timestamp": "2024-08-26T08:02:00Z",
+    "status": "Walking: End of walking phase"
+  },
+  {
+    "id": 8,
+    "unitId": 1,
+    "latitude": 37.24,
+    "longitude": -115.8114,
+    "timestamp": "2024-08-26T08:02:20Z",
+    "status": "Stopped: Pause point"
+  },
+  {
+    "id": 9,
+    "unitId": 1,
+    "latitude": 37.241,
+    "longitude": -115.812,
+    "timestamp": "2024-08-26T08:02:40Z",
+    "status": "Running: Start of second running phase"
+  },
+  {
+    "id": 10,
+    "unitId": 1,
+    "latitude": 37.243,
+    "longitude": -115.8135,
+    "timestamp": "2024-08-26T08:03:00Z",
+    "status": "Running: Continuing second run"
+  },
+  {
+    "id": 11,
+    "unitId": 1,
+    "latitude": 37.245,
+    "longitude": -115.815,
+    "timestamp": "2024-08-26T08:03:20Z",
+    "status": "Running: End of second running phase"
+  },
+  {
+    "id": 12,
+    "unitId": 1,
+    "latitude": 37.2445,
+    "longitude": -115.8075,
+    "timestamp": "2024-08-26T08:03:40Z",
+    "status": "Returning: Start of return to initial point"
+  },
+  {
+    "id": 13,
+    "unitId": 1,
+    "latitude": 37.234332396,
+    "longitude": -115.80666344,
+    "timestamp": "2024-08-26T08:04:00Z",
+    "status": "Returning: Initial point (end of route)"
+  },
+  {
+    "id": 14,
+    "unitId": 1,
+    "latitude": 37.233,
+    "longitude": -115.807,
+    "timestamp": "2024-08-26T08:04:20Z",
+    "status": "Damaged: Minor issue detected"
+  },
+  {
+    "id": 15,
+    "unitId": 1,
+    "latitude": 37.232,
+    "longitude": -115.8065,
+    "timestamp": "2024-08-26T08:04:40Z",
+    "status": "Firing: Engaging target"
+  },
+  {
+    "id": 16,
+    "unitId": 1,
+    "latitude": 37.2315,
+    "longitude": -115.8055,
+    "timestamp": "2024-08-26T08:05:00Z",
+    "status": "Firing: Continuing engagement"
+  },
+  {
+    "id": 17,
+    "unitId": 1,
+    "latitude": 37.2305,
+    "longitude": -115.8045,
+    "timestamp": "2024-08-26T08:05:20Z",
+    "status": "Firing: Engagement concluded"
+  },
+  {
+    "id": 18,
+    "unitId": 1,
+    "latitude": 37.2295,
+    "longitude": -115.8035,
+    "timestamp": "2024-08-26T08:05:40Z",
+    "status": "Stopped: Damage assessment"
+  },
+  {
+    "id": 19,
+    "unitId": 1,
+    "latitude": 37.228,
+    "longitude": -115.802,
+    "timestamp": "2024-08-26T08:06:00Z",
+    "status": "Stopped: Awaiting repair"
+  },
+  {
+    "id": 20,
+    "unitId": 1,
+    "latitude": 37.227,
+    "longitude": -115.801,
+    "timestamp": "2024-08-26T08:06:20Z",
+    "status": "Damaged: Major issue detected"
+  },
+  {
+    "id": 21,
+    "unitId": 1,
+    "latitude": 37.226,
+    "longitude": -115.8,
+    "timestamp": "2024-08-26T08:06:40Z",
+    "status": "Firing: Re-engaging target"
+  },
+  {
+    "id": 22,
+    "unitId": 1,
+    "latitude": 37.225,
+    "longitude": -115.799,
+    "timestamp": "2024-08-26T08:07:00Z",
+    "status": "Returning: Returning to base"
+  },
+  {
+    "id": 23,
+    "unitId": 1,
+    "latitude": 37.234332396,
+    "longitude": -115.80666344,
+    "timestamp": "2024-08-26T08:07:20Z",
+    "status": "Returning: Base reached"
+  },
+  {
+    "id": 24,
+    "unitId": 2,
+    "latitude": 37.23,
+    "longitude": -115.805,
+    "timestamp": "2024-08-26T08:00:00Z",
+    "status": "Departure: Starting point For ID 2"
+  },
+  {
+    "id": 25,
+    "unitId": 2,
+    "latitude": 37.2315,
+    "longitude": -115.8065,
+    "timestamp": "2024-08-26T08:00:20Z",
+    "status": "Running: First point after start For ID 2"
+  },
+  {
+    "id": 26,
+    "unitId": 2,
+    "latitude": 37.233,
+    "longitude": -115.807,
+    "timestamp": "2024-08-26T08:00:40Z",
+    "status": "Running: Continuing run"
+  },
+  {
+    "id": 27,
+    "unitId": 2,
+    "latitude": 37.2345,
+    "longitude": -115.808,
+    "timestamp": "2024-08-26T08:01:00Z",
+    "status": "Running: End of running phase"
+  },
+  {
+    "id": 28,
+    "unitId": 2,
+    "latitude": 37.236,
+    "longitude": -115.809,
+    "timestamp": "2024-08-26T08:01:20Z",
+    "status": "Walking: Start of walking phase"
+  },
+  {
+    "id": 29,
+    "unitId": 2,
+    "latitude": 37.2375,
+    "longitude": -115.81,
+    "timestamp": "2024-08-26T08:01:40Z",
+    "status": "Walking: Continuing walk"
+  },
+  {
+    "id": 30,
+    "unitId": 2,
+    "latitude": 37.239,
+    "longitude": -115.811,
+    "timestamp": "2024-08-26T08:02:00Z",
+    "status": "Walking: End of walking phase"
+  },
+  {
+    "id": 31,
+    "unitId": 2,
+    "latitude": 37.2405,
+    "longitude": -115.812,
+    "timestamp": "2024-08-26T08:02:20Z",
+    "status": "Stopped: Pause point"
+  },
+  {
+    "id": 32,
+    "unitId": 2,
+    "latitude": 37.242,
+    "longitude": -115.813,
+    "timestamp": "2024-08-26T08:02:40Z",
+    "status": "Running: Start of second running phase"
+  },
+  {
+    "id": 33,
+    "unitId": 2,
+    "latitude": 37.2435,
+    "longitude": -115.814,
+    "timestamp": "2024-08-26T08:03:00Z",
+    "status": "Running: Continuing second run"
+  },
+  {
+    "id": 34,
+    "unitId": 2,
+    "latitude": 37.245,
+    "longitude": -115.815,
+    "timestamp": "2024-08-26T08:03:20Z",
+    "status": "Running: End of second running phase For Id 2"
+  },
+  {
+    "id": 35,
+    "unitId": 2,
+    "latitude": 37.2445,
+    "longitude": -115.816,
+    "timestamp": "2024-08-26T08:03:40Z",
+    "status": "Returning: Start of return to initial point"
+  },
+  {
+    "id": 36,
+    "unitId": 2,
+    "latitude": 37.243,
+    "longitude": -115.817,
+    "timestamp": "2024-08-26T08:04:00Z",
+    "status": "Returning: Continuing return"
+  },
+  {
+    "id": 37,
+    "unitId": 2,
+    "latitude": 37.2415,
+    "longitude": -115.818,
+    "timestamp": "2024-08-26T08:04:20Z",
+    "status": "Returning: Initial point (end of route)"
+  },
+  {
+    "id": 38,
+    "unitId": 2,
+    "latitude": 37.24,
+    "longitude": -115.8165,
+    "timestamp": "2024-08-26T08:04:40Z",
+    "status": "Damaged: Minor issue detected For ID 2"
+  },
+  {
+    "id": 39,
+    "unitId": 2,
+    "latitude": 37.2385,
+    "longitude": -115.815,
+    "timestamp": "2024-08-26T08:05:00Z",
+    "status": "Firing: Engaging target! "
+  },
+  {
+    "id": 40,
+    "unitId": 2,
+    "latitude": 37.237,
+    "longitude": -115.8135,
+    "timestamp": "2024-08-26T08:05:20Z",
+    "status": "Firing: Continuing engagement"
+  },
+  {
+    "id": 41,
+    "unitId": 2,
+    "latitude": 37.236,
+    "longitude": -115.812,
+    "timestamp": "2024-08-26T08:05:40Z",
+    "status": "Firing: Engagement concluded!"
+  },
+  {
+    "id": 42,
+    "unitId": 2,
+    "latitude": 37.235,
+    "longitude": -115.8105,
+    "timestamp": "2024-08-26T08:06:00Z",
+    "status": "Stopped: Damage assessment"
+  },
+  {
+    "id": 43,
+    "unitId": 2,
+    "latitude": 37.2335,
+    "longitude": -115.809,
+    "timestamp": "2024-08-26T08:06:20Z",
+    "status": "Stopped: Awaiting repair!"
+  },
+  {
+    "id": 44,
+    "unitId": 2,
+    "latitude": 37.232,
+    "longitude": -115.8075,
+    "timestamp": "2024-08-26T08:06:40Z",
+    "status": "Damaged: Major issue detected!"
+  },
+  {
+    "id": 45,
+    "unitId": 2,
+    "latitude": 37.2305,
+    "longitude": -115.806,
+    "timestamp": "2024-08-26T08:07:00Z",
+    "status": "Firing: Re-engaging target!"
+  },
+  {
+    "id": 46,
+    "unitId": 2,
+    "latitude": 37.229,
+    "longitude": -115.8045,
+    "timestamp": "2024-08-26T08:07:20Z",
+    "status": "Returning: Returning to base"
+  },
+  {
+    "id": 47,
+    "unitId": 2,
+    "latitude": 37.23,
+    "longitude": -115.805,
+    "timestamp": "2024-08-26T08:07:40Z",
+    "status": "Returning: Base reached"
+  },
+  {
+    "id": 48,
+    "unitId": 3,
+    "latitude": 37.22,
+    "longitude": -115.8,
+    "timestamp": "2024-08-26T08:00:00Z",
+    "status": "Departure: Starting point"
+  },
+  {
+    "id": 49,
+    "unitId": 3,
+    "latitude": 37.2215,
+    "longitude": -115.8015,
+    "timestamp": "2024-08-26T08:00:20Z",
+    "status": "Running: First point after start"
+  },
+  {
+    "id": 50,
+    "unitId": 3,
+    "latitude": 37.223,
+    "longitude": -115.803,
+    "timestamp": "2024-08-26T08:00:40Z",
+    "status": "Running: Continuing run"
+  },
+  {
+    "id": 51,
+    "unitId": 3,
+    "latitude": 37.2245,
+    "longitude": -115.8045,
+    "timestamp": "2024-08-26T08:01:00Z",
+    "status": "Running: End of running phase"
+  },
+  {
+    "id": 52,
+    "unitId": 3,
+    "latitude": 37.226,
+    "longitude": -115.806,
+    "timestamp": "2024-08-26T08:01:20Z",
+    "status": "Walking: Start of walking phase"
+  },
+  {
+    "id": 53,
+    "unitId": 3,
+    "latitude": 37.2275,
+    "longitude": -115.8075,
+    "timestamp": "2024-08-26T08:01:40Z",
+    "status": "Walking: Continuing walk"
+  },
+  {
+    "id": 54,
+    "unitId": 3,
+    "latitude": 37.229,
+    "longitude": -115.809,
+    "timestamp": "2024-08-26T08:02:00Z",
+    "status": "Walking: End of walking phase"
+  },
+  {
+    "id": 55,
+    "unitId": 3,
+    "latitude": 37.2305,
+    "longitude": -115.8105,
+    "timestamp": "2024-08-26T08:02:20Z",
+    "status": "Stopped: Pause point"
+  },
+  {
+    "id": 56,
+    "unitId": 3,
+    "latitude": 37.232,
+    "longitude": -115.812,
+    "timestamp": "2024-08-26T08:02:40Z",
+    "status": "Running: Start of second running phase"
+  },
+  {
+    "id": 57,
+    "unitId": 3,
+    "latitude": 37.2335,
+    "longitude": -115.8135,
+    "timestamp": "2024-08-26T08:03:00Z",
+    "status": "Running: Continuing second run"
+  },
+  {
+    "id": 58,
+    "unitId": 3,
+    "latitude": 37.235,
+    "longitude": -115.815,
+    "timestamp": "2024-08-26T08:03:20Z",
+    "status": "Running: End of second running phase"
+  },
+  {
+    "id": 59,
+    "unitId": 3,
+    "latitude": 37.2345,
+    "longitude": -115.8165,
+    "timestamp": "2024-08-26T08:03:40Z",
+    "status": "Returning: Start of return to initial point"
+  },
+  {
+    "id": 60,
+    "unitId": 3,
+    "latitude": 37.233,
+    "longitude": -115.818,
+    "timestamp": "2024-08-26T08:04:00Z",
+    "status": "Returning: Continuing return"
+  },
+  {
+    "id": 61,
+    "unitId": 3,
+    "latitude": 37.2315,
+    "longitude": -115.819,
+    "timestamp": "2024-08-26T08:04:20Z",
+    "status": "Returning: Initial point (end of route)"
+  },
+  {
+    "id": 62,
+    "unitId": 3,
+    "latitude": 37.23,
+    "longitude": -115.8175,
+    "timestamp": "2024-08-26T08:04:40Z",
+    "status": "Damaged: Minor issue detected"
+  },
+  {
+    "id": 63,
+    "unitId": 3,
+    "latitude": 37.2285,
+    "longitude": -115.816,
+    "timestamp": "2024-08-26T08:05:00Z",
+    "status": "Firing: Engaging target"
+  },
+  {
+    "id": 64,
+    "unitId": 3,
+    "latitude": 37.227,
+    "longitude": -115.8145,
+    "timestamp": "2024-08-26T08:05:20Z",
+    "status": "Firing: Continuing engagement"
+  },
+  {
+    "id": 65,
+    "unitId": 3,
+    "latitude": 37.2255,
+    "longitude": -115.813,
+    "timestamp": "2024-08-26T08:05:40Z",
+    "status": "Firing: Engagement concluded"
+  },
+  {
+    "id": 66,
+    "unitId": 3,
+    "latitude": 37.224,
+    "longitude": -115.8115,
+    "timestamp": "2024-08-26T08:06:00Z",
+    "status": "Stopped: Damage assessment"
+  },
+  {
+    "id": 67,
+    "unitId": 3,
+    "latitude": 37.2225,
+    "longitude": -115.81,
+    "timestamp": "2024-08-26T08:06:20Z",
+    "status": "Stopped: Awaiting repair"
+  },
+  {
+    "id": 68,
+    "unitId": 3,
+    "latitude": 37.221,
+    "longitude": -115.8085,
+    "timestamp": "2024-08-26T08:06:40Z",
+    "status": "Damaged: Major issue detected"
+  },
+  {
+    "id": 69,
+    "unitId": 3,
+    "latitude": 37.2195,
+    "longitude": -115.807,
+    "timestamp": "2024-08-26T08:07:00Z",
+    "status": "Firing: Re-engaging target"
+  },
+  {
+    "id": 70,
+    "unitId": 3,
+    "latitude": 37.218,
+    "longitude": -115.8055,
+    "timestamp": "2024-08-26T08:07:20Z",
+    "status": "Returning: Returning to base"
+  },
+  {
+    "id": 71,
+    "unitId": 3,
+    "latitude": 37.22,
+    "longitude": -115.804,
+    "timestamp": "2024-08-26T08:07:40Z",
+    "status": "Returning: Base reached"
+  },
+  {
+    "id": 72,
+    "unitId": 1,
+    "latitude": 37.234332396,
+    "longitude": -115.80666344,
+    "timestamp": "2024-08-26T08:00:00Z",
+    "status": "Running: First point after start"
+  },
+  {
+    "id": 73,
+    "unitId": 1,
+    "latitude": 37.236,
+    "longitude": -115.808,
+    "timestamp": "2024-08-26T08:00:20Z",
+    "status": "Departure: Starting point"
+  },
+  {
+    "id": 74,
+    "unitId": 1,
+    "latitude": 37.2375,
+    "longitude": -115.8095,
+    "timestamp": "2024-08-26T08:00:40Z",
+    "status": "Walking: Continuing walk"
+  },
+  {
+    "id": 75,
+    "unitId": 1,
+    "latitude": 37.239,
+    "longitude": -115.8105,
+    "timestamp": "2024-08-26T08:01:00Z",
+    "status": "Running: End of running phase"
+  },
+  {
+    "id": 76,
+    "unitId": 1,
+    "latitude": 37.2395,
+    "longitude": -115.811,
+    "timestamp": "2024-08-26T08:01:20Z",
+    "status": "Walking: Start of walking phase"
+  },
+  {
+    "id": 77,
+    "unitId": 1,
+    "latitude": 37.2398,
+    "longitude": -115.8112,
+    "timestamp": "2024-08-26T08:01:40Z",
+    "status": "Stopped: Pause point"
+  },
+  {
+    "id": 78,
+    "unitId": 1,
+    "latitude": 37.24,
+    "longitude": -115.8114,
+    "timestamp": "2024-08-26T08:02:00Z",
+    "status": "Walking: End of walking phase"
+  },
+  {
+    "id": 79,
+    "unitId": 1,
+    "latitude": 37.24,
+    "longitude": -115.8114,
+    "timestamp": "2024-08-26T08:02:20Z",
+    "status": "Returning: Initial point (end of route)"
+  },
+  {
+    "id": 80,
+    "unitId": 1,
+    "latitude": 37.241,
+    "longitude": -115.812,
+    "timestamp": "2024-08-26T08:02:40Z",
+    "status": "Running: Start of second running phase"
+  },
+  {
+    "id": 81,
+    "unitId": 1,
+    "latitude": 37.243,
+    "longitude": -115.8135,
+    "timestamp": "2024-08-26T08:03:00Z",
+    "status": "Damaged: Minor issue detected"
+  },
+  {
+    "id": 82,
+    "unitId": 1,
+    "latitude": 37.245,
+    "longitude": -115.815,
+    "timestamp": "2024-08-26T08:03:20Z",
+    "status": "Running: End of second running phase"
+  },
+  {
+    "id": 83,
+    "unitId": 1,
+    "latitude": 37.2445,
+    "longitude": -115.8075,
+    "timestamp": "2024-08-26T08:03:40Z",
+    "status": "Firing: Engaging target"
+  },
+  {
+    "id": 84,
+    "unitId": 1,
+    "latitude": 37.234332396,
+    "longitude": -115.80666344,
+    "timestamp": "2024-08-26T08:04:00Z",
+    "status": "Returning: Start of return to initial point"
+  },
+  {
+    "id": 85,
+    "unitId": 1,
+    "latitude": 37.233,
+    "longitude": -115.807,
+    "timestamp": "2024-08-26T08:04:20Z",
+    "status": "Firing: Continuing engagement"
+  },
+  {
+    "id": 86,
+    "unitId": 1,
+    "latitude": 37.232,
+    "longitude": -115.8065,
+    "timestamp": "2024-08-26T08:04:40Z",
+    "status": "Returning: Initial point (end of route)"
+  },
+  {
+    "id": 87,
+    "unitId": 1,
+    "latitude": 37.2315,
+    "longitude": -115.8055,
+    "timestamp": "2024-08-26T08:05:00Z",
+    "status": "Firing: Engagement concluded"
+  },
+  {
+    "id": 88,
+    "unitId": 1,
+    "latitude": 37.2305,
+    "longitude": -115.8045,
+    "timestamp": "2024-08-26T08:05:20Z",
+    "status": "Stopped: Damage assessment"
+  },
+  {
+    "id": 89,
+    "unitId": 1,
+    "latitude": 37.2295,
+    "longitude": -115.8035,
+    "timestamp": "2024-08-26T08:05:40Z",
+    "status": "Stopped: Awaiting repair"
+  },
+  {
+    "id": 90,
+    "unitId": 1,
+    "latitude": 37.228,
+    "longitude": -115.802,
+    "timestamp": "2024-08-26T08:06:00Z",
+    "status": "Damaged: Major issue detected"
+  },
+  {
+    "id": 91,
+    "unitId": 1,
+    "latitude": 37.227,
+    "longitude": -115.801,
+    "timestamp": "2024-08-26T08:06:20Z",
+    "status": "Returning: Returning to base"
+  },
+  {
+    "id": 92,
+    "unitId": 1,
+    "latitude": 37.226,
+    "longitude": -115.8,
+    "timestamp": "2024-08-26T08:06:40Z",
+    "status": "Firing: Re-engaging target"
+  },
+  {
+    "id": 93,
+    "unitId": 1,
+    "latitude": 37.225,
+    "longitude": -115.799,
+    "timestamp": "2024-08-26T08:07:00Z",
+    "status": "Returning: Base reached"
+  }
+]

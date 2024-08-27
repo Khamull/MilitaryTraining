@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repos\\MilitaryTraining\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7689E47-14D1-49B6-BD2A-6F868BEB93D4}|UI\\UI.csproj|c:\\repos\\militarytraining\\ui\\testdata\\movements.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F7689E47-14D1-49B6-BD2A-6F868BEB93D4}|UI\\UI.csproj|solutionrelative:ui\\testdata\\movements.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Movements.json",
+              "DocumentMoniker": "C:\\Repos\\MilitaryTraining\\UI\\TestData\\Movements.json",
+              "RelativeDocumentMoniker": "UI\\TestData\\Movements.json",
+              "ToolTip": "C:\\Repos\\MilitaryTraining\\UI\\TestData\\Movements.json",
+              "RelativeToolTip": "UI\\TestData\\Movements.json",
+              "ViewState": "AQIAAMUCAAAAAAAAAAAUwOkCAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-26T22:01:49.877Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

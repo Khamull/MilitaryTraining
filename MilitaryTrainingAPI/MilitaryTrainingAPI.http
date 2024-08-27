@@ -1,0 +1,6 @@
+@MilitaryTrainingAPI_HostAddress = http://localhost:5100
+
+GET {{MilitaryTrainingAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
